@@ -1,0 +1,1 @@
+String adalah kumpulan dari beberapa variabel berupa teks sama seperti tipe char, tetapi string ini menyimpan beberapa teks atau array sedangkan char menyimpan hanya 1 teks saja.

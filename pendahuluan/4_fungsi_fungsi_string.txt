@@ -1,0 +1,4 @@
+1. strlen() fungsi string untuk mendapatkan jumlah karakter suatu string
+2. strcpy() fungsi string untuk mendapatkan salinan dari string lain nya
+3. strcmp() fungsi string untuk melakukan perbandingan dari string lain nya
+4. strchr() fungsi string untuk mengetahui posisi string

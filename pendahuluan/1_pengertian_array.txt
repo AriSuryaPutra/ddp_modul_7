@@ -1,0 +1,1 @@
+Array adalah himpunan elemen (variable) dengan tipe yang sama dan disimpan secara berurutan dalam memory yang ditandai dengan memberikan index pada suatu nama variable. 
